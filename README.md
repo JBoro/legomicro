@@ -1,0 +1,2 @@
+# legomicro
+ legomicro build
